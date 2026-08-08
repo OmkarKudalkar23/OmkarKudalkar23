@@ -7,7 +7,7 @@ Passionate about **AI agent systems, Graph-RAG, and multi-agent orchestration** 
 - 🎓 B.Tech CSE (Data Science) @ DJ Sanghvi College of Engineering — CGPA 9.94
 - 💼 Founders Office Intern @ Hooman Labs | 🔬 Research Intern @ IIT Patna
 - 🏆 Winner — DevHacks 2026 & HackXelerate 2026
-- 📫 kudalkaromkar44@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/omkar-kudalkar) &nbsp;|&nbsp; [LeetCode](https://leetcode.com/u/thriver023)
+- 📫 kudalkaromkar44@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/omkar-kudalkar) &nbsp;|&nbsp; 
 
 ---
 

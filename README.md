@@ -66,9 +66,9 @@ Passionate about **AI agent systems, Graph-RAG, and multi-agent orchestration** 
 
 | Project | Tech Stack | Highlights |
 |---|---|---|
-| **[Nolan AI Studio](https://github.com/OmkarKudalkar23)** | Neo4j, Next.js, LangChain, MongoDB, LangGraph | Graph-RAG powered multi-agent storytelling platform with AI comic generation & voice narration; 3× fewer API calls/session |
-| **[Finverse](https://github.com/OmkarKudalkar23)** | Next.js, Three.js, IndexedDB, MongoDB, GSAP | Offline-first financial literacy platform for 500+ rural users; 40% boost in lesson completion via 3D gamified modules |
-| **[SignSync](https://github.com/OmkarKudalkar23)** | Next.js, Python, MediaPipe, OpenCV, LSTM, Transformers, Whisper | Real-time ISL/ASL translation with sub-2ms latency, 3D avatar rendering, and a Chrome extension serving 466M+ deaf/HoH users |
+| **[Nolan AI Studio](https://nolan-lemon.vercel.app/)** | Neo4j, Next.js, LangChain, MongoDB, LangGraph | Graph-RAG powered multi-agent storytelling platform with AI comic generation & voice narration; 3× fewer API calls/session |
+| **[Finverse](https://finversee.vercel.app/)** | Next.js, Three.js, IndexedDB, MongoDB, GSAP | Offline-first financial literacy platform for 500+ rural users; 40% boost in lesson completion via 3D gamified modules |
+| **[SignSync](https://signsync-brown.vercel.app/)** | Next.js, Python, MediaPipe, OpenCV, LSTM, Transformers, Whisper | Real-time ISL/ASL translation with sub-2ms latency, 3D avatar rendering, and a Chrome extension serving 466M+ deaf/HoH users |
 
 ---
 

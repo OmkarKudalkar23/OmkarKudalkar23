@@ -1,17 +1,42 @@
-# Hi there 👋, I'm Omkar Kudalkar
+<div align="center">
 
-### 🚀 About Me
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:E63946,100:FFD60A&height=250&section=header&text=Omkar%20Kudalkar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Agent%20Systems%20%7C%20Graph-RAG%20%7C%20Full-Stack%20Engineer&descAlignY=55&descSize=20" width="100%"/>
 
-Passionate about **AI agent systems, Graph-RAG, and multi-agent orchestration** — I also build full-stack products end-to-end with **Next.js, Node.js, and MongoDB**, taking ideas from prototype to production.
+<a href="https://linkedin.com/in/omkar-kudalkar"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=800&color=E63946&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+11-agent+pipelines+that+run+3-4x+faster;Cutting+LLM+token+usage+by+86%25+with+Graph-RAG;Shipping+multi-agent+voice+AI+for+enterprise+clients;Turning+prototypes+into+production+%E2%80%94+end+to+end" alt="Typing SVG" /></a>
 
-- 🎓 B.Tech CSE (Data Science) @ DJ Sanghvi College of Engineering — CGPA 9.94
-- 💼 Founders Office Intern @ Hooman Labs | 🔬 Research Intern @ IIT Patna
-- 🏆 Winner — DevHacks 2026 & HackXelerate 2026
-- 📫 kudalkaromkar44@gmail.com &nbsp;|&nbsp; [LinkedIn](https://linkedin.com/in/omkar-kudalkar) &nbsp;|&nbsp; 
+<br/>
 
----
+<a href="mailto:kudalkaromkar44@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/omkar-kudalkar"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://github.com/OmkarKudalkar23"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/></a>
 
-### 🛠️ Tech Stack & Languages
+<img src="https://komarev.com/ghpvc/?username=OmkarKudalkar23&style=for-the-badge&color=E63946&label=PROFILE+VIEWS"/>
+
+</div>
+
+<br/>
+
+## 🧠 About Me
+
+```yaml
+name: Omkar Kudalkar
+role: AI Agent Systems Builder & Full-Stack Engineer
+education: B.Tech CSE (Data Science) @ DJ Sanghvi College of Engineering — CGPA 9.94
+currently:
+  - Founders Office Intern @ Hooman Labs
+  - Research Intern @ IIT Patna
+focus: [Graph-RAG, Multi-Agent Orchestration, LangGraph, Next.js, MongoDB]
+achievements:
+  - 🥇 Winner — DevHacks 2026 (1000+ participants)
+  - 🥇 Winner — HackXelerate 2026 (200+ teams)
+fun_fact: "I've shipped things touching 466M+ potential users via SignSync"
+```
+
+<br/>
+
+## ⚡ Tech Arsenal
+
+<div align="center">
 
 **Languages**
 
@@ -39,7 +64,7 @@ Passionate about **AI agent systems, Graph-RAG, and multi-agent orchestration** 
 ![MediaPipe](https://img.shields.io/badge/MEDIAPIPE-0097A7?style=for-the-badge)
 ![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-**Dev Tools & Practices**
+**Dev Tools & Infra**
 
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -48,51 +73,125 @@ Passionate about **AI agent systems, Graph-RAG, and multi-agent orchestration** 
 ![Netlify](https://img.shields.io/badge/NETLIFY-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 ![n8n](https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
----
+</div>
 
-### 💼 Experience
+<br/>
 
-**Founders Office Intern** — *Hooman Labs* `Apr 2026 – Present`
-- Built and shipped secure CRM integrations (HubSpot, Shopify, CleverTap) with input validation and secure API design
-- Designed and tested multi-agent voice AI systems for enterprise clients (GIVA, Careers360, Newton School, Man Matters), unifying CRM, telephony, and LLM workflows
+<img src="https://capsule-render.vercel.app/api?type=transparent&color=E63946&height=2&section=header" width="100%"/>
 
-**Research Intern** — *IIT Patna* `Apr 2026 – Present`
-- Architected an **11-agent parallel processing pipeline** (Python, `asyncio.gather()`) with 3-wave orchestration — 3–4× faster than sequential processing
-- Engineered a **Graph-RAG retrieval pipeline** using Neo4j subgraph extraction, cutting LLM context-window token usage by **86%** (30K → <6K tokens/query)
+## 💼 Experience
 
----
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 🧩 Featured Projects
+### 🚀 Founders Office Intern
+**Hooman Labs** · `Apr 2026 – Present`
 
-| Project | Tech Stack | Highlights |
-|---|---|---|
-| **[Nolan AI Studio](https://nolan-lemon.vercel.app/)** | Neo4j, Next.js, LangChain, MongoDB, LangGraph | Graph-RAG powered multi-agent storytelling platform with AI comic generation & voice narration; 3× fewer API calls/session |
-| **[Finverse](https://finversee.vercel.app/)** | Next.js, Three.js, IndexedDB, MongoDB, GSAP | Offline-first financial literacy platform for 500+ rural users; 40% boost in lesson completion via 3D gamified modules |
-| **[SignSync](https://signsync-brown.vercel.app/)** | Next.js, Python, MediaPipe, OpenCV, LSTM, Transformers, Whisper | Real-time ISL/ASL translation with sub-2ms latency, 3D avatar rendering, and a Chrome extension serving 466M+ deaf/HoH users |
+- Built & shipped secure CRM integrations (HubSpot, Shopify, CleverTap) with input validation and secure API design
+- Designed multi-agent voice AI systems for enterprise clients (GIVA, Careers360, Newton School, Man Matters) — unifying CRM, telephony & LLM workflows
 
----
+</td>
+<td width="50%" valign="top">
 
-### 🏆 Achievements
+### 🔬 Research Intern
+**IIT Patna** · `Apr 2026 – Present`
 
-- 🥇 **1st Place** — DevHacks 2026, Atharva Engineering College *(1000+ participants)* — Graph-RAG multi-agent storytelling platform
-- 🥇 **1st Place** — HackXelerate 2026, VJTI Mumbai *(200+ teams)* — AI-powered smart waste management with OpenCV & intelligent routing
-- 🥉 **2nd Runner-Up** — Spectrum 2026, Bhagubhai Diploma College *(400+ teams, Fintech)* — Offline-first financial literacy platform for rural communities
+- Architected an **11-agent parallel pipeline** (`asyncio.gather()`, 3-wave orchestration) — **3–4× faster** than sequential processing
+- Engineered a **Graph-RAG retrieval pipeline** on Neo4j — cut LLM context tokens by **86%** (30K → <6K/query)
 
----
+</td>
+</tr>
+</table>
 
-### 📊 GitHub Stats
+<br/>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarKudalkar23&theme=radical&hide_border=true&background=0D1117&stroke=E63946&ring=E63946&fire=FFD60A&currStreakLabel=E63946"/>
-</p>
+## 🧩 Featured Projects
 
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=OmkarKudalkar23&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarKudalkar23&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
-</p>
+<table>
+<tr>
+<td width="33%" valign="top">
 
----
+### 🎬 [Nolan AI Studio](https://nolan-lemon.vercel.app/)
+`Neo4j` `Next.js` `LangChain` `LangGraph`
 
-<p align="center">
-  <i>⚡ Always exploring the intersection of AI agents, graph-based retrieval, and delightful product engineering.</i>
-</p>
+Graph-RAG powered multi-agent storytelling platform with AI comic generation & voice narration — **3× fewer API calls/session**
+
+</td>
+<td width="33%" valign="top">
+
+### 💰 [Finverse](https://finversee.vercel.app/)
+`Three.js` `IndexedDB` `GSAP`
+
+Offline-first financial literacy platform for **500+ rural users** — **40% boost** in lesson completion via 3D gamified modules
+
+</td>
+<td width="33%" valign="top">
+
+### 🤟 [SignSync](https://signsync-brown.vercel.app/)
+`MediaPipe` `OpenCV` `LSTM` `Whisper`
+
+Real-time ISL/ASL translation, sub-2ms latency, 3D avatar rendering — built for **466M+** deaf/HoH users worldwide
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🏆 Achievements
+
+<div align="center">
+
+🥇 **1st Place — DevHacks 2026**, Atharva Engineering College *(1000+ participants)* — Graph-RAG multi-agent storytelling platform
+
+🥇 **1st Place — HackXelerate 2026**, VJTI Mumbai *(200+ teams)* — AI-powered smart waste management with OpenCV & intelligent routing
+
+🥉 **2nd Runner-Up — Spectrum 2026**, Bhagubhai Diploma College *(400+ teams, Fintech)* — Offline-first financial literacy platform
+
+</div>
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=OmkarKudalkar23&show_icons=true&theme=radical&hide_border=true&count_private=true&bg_color=0D1117&title_color=E63946&icon_color=FFD60A"/>
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmkarKudalkar23&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=E63946"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=OmkarKudalkar23&theme=radical&hide_border=true&background=0D1117&stroke=E63946&ring=E63946&fire=FFD60A&currStreakLabel=E63946"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=OmkarKudalkar23&theme=react-dark&bg_color=0D1117&color=E63946&line=FFD60A&point=ffffff&hide_border=true" width="90%"/>
+
+</div>
+
+<details>
+<summary><b>🏅 Trophy Case (click to expand)</b></summary>
+<br/>
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=OmkarKudalkar23&theme=radical&no-frame=true&no-bg=true&row=2&column=4"/>
+</div>
+</details>
+
+<br/>
+
+<div align="center">
+
+### 🐍 Contribution Snake
+
+<!-- START SNAKE -->
+<img src="https://raw.githubusercontent.com/OmkarKudalkar23/OmkarKudalkar23/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<!-- END SNAKE -->
+
+<sub>⚙️ To activate: add the <code>Platane/snk</code> GitHub Action to a repo named exactly like your username — it auto-generates this animation from your real contribution graph on every push. See <a href="https://github.com/Platane/snk">Platane/snk</a>.</sub>
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD60A,50:E63946,100:0D1117&height=150&section=footer"/>
+
+<div align="center">
+<i>⚡ Always exploring the intersection of AI agents, graph-based retrieval, and delightful product engineering.</i>
+</div>
